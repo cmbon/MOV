@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379450851475",
+    "firebase_url": "https://mov-database-4e1e6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mov-database-4e1e6",
+    "storage_bucket": "mov-database-4e1e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379450851475:android:8563ade996fe66993ccd66",
+        "android_client_info": {
+          "package_name": "com.duriansong.mov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379450851475-i44eia69asnqc1n7j2cquk3p7fcc75b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDfWtH6win5gp4WjMLpcLEKUzq-UD-ZtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379450851475-i44eia69asnqc1n7j2cquk3p7fcc75b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
